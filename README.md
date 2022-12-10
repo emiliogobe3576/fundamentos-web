@@ -1,2 +1,1 @@
-# fundamentos-web
-Coding Dojo
+Ejercicio de Core Js
